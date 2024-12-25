@@ -12,7 +12,7 @@ A simple web-based application for searching stock information by entering stock
 
 ## Hosted Link
 
-You can access the live application here: [Stock Search Application](https://aparnamagadum.github.io/Remct4-Stock/)
+You can access the live application here: [Stock Search Application](https://nawabkhan89646.github.io/Stocks-Project-Js/)
 
 ## Technologies Used
 
